@@ -27,7 +27,7 @@ make install # Compiles instantly because typing slower is for mortals
 ## 🧠 Syntax
 
 - See [`/samples`](/samples/) for basic syntax.
-- See [Cross-Hand Access Shortcuts](/sfeatures/cross-hand.md) for basic syntax.
+- See [Cross-Hand Access Shortcuts](/features/cross-hand.md) for basic syntax.
 
 ## 📊 Performance Benchmarks
 
