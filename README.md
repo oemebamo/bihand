@@ -14,7 +14,7 @@ Why type with two hands on the same code when you can **code in parallel** like 
 
 ```bash
 git clone https://github.com/oemebamo/bihand
-cd bihandpp
+cd bihand
 make install # Compiles instantly because typing slower is for mortals
 ```
 
