@@ -33,8 +33,8 @@ make install # Compiles instantly because typing slower is for mortals
 
 | Editor / Language    | WPM | Bragging Level |
 | -------- | ------- | ------- |
-| VSCode + JS  | 50    | Sad |
-| Neovim + Lua | 70     | Acceptable |
+| IntelliJ + Java  | 50    | Sad |
+| Neovim + Java + Quarkus | 70     | Acceptable |
 | BiHand++ + Dual Neovim    | 140    | Godlike |
 
 ## 🔌 Neovim Config
