@@ -1,5 +1,7 @@
 # 🔑 Cross-Hand Access Shortcuts
 
+Yes, sometimes your left hand needs characters that are only available on the right-hand part of your keyboard. Don't worry: BiHand v1.1 introduces cross-hand access shortcuts!
+
 ## 👈 Left Hand Wants Right-Hand Keys?
 
 You must enter the sacred sequence:
