@@ -25,7 +25,9 @@ make install # Compiles instantly because typing slower is for mortals
 - The belief that everyone around you codes wrong.
 
 ## 🧠 Syntax
-See `/samples` for syntax.
+
+- See [`/samples`](/samples/) for basic syntax.
+- See [Cross-Hand Access Shortcuts](/sfeatures/cross-hand.md) for basic syntax.
 
 ## 📊 Performance Benchmarks
 
