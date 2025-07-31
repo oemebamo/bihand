@@ -7,7 +7,7 @@ Yes, sometimes your left hand needs characters that are only available on the ri
 You must enter the sacred sequence:
 
 ```
-asd-fga-sdf
+dad#dad#dad
 ```
 
 Once in this “Right Hand Emulation Mode™”, pressing:
@@ -20,14 +20,14 @@ Once in this “Right Hand Emulation Mode™”, pressing:
 To exit, type:
 
 ````
-gds-ads-fad
+fad-fad-fad
 ````
 
 ## 👉 Right Hand Wants Left-Hand Keys?
 Use the mystical sequence:
 
 ```
-jkl-hjk-lkj
+lol-lol-lol
 ```
 
 Now your right hand can summon:
@@ -40,7 +40,7 @@ Now your right hand can summon:
 To exit:
 
 ```
-klj-hlk-jhk
+hihi-hihi-hihi
 ```
 
 ## ⚡ Why So Complicated?
