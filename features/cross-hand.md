@@ -45,4 +45,4 @@ klj-hlk-jhk
 
 ## ⚡ Why So Complicated?
 
-Because true productivity isn’t about being fast – it’s about performing complex rituals that feel fast while explaining to everyone else how they’re doing it wrong.
+Because true productivity isn’t about being fast, it’s about performing complex rituals that **feel fast** while explaining to everyone else how they’re doing it wrong.
