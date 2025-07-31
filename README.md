@@ -5,10 +5,10 @@ Why type with two hands on the same code when you can **code in parallel** like 
 
 ## ✨ Features
 
-✅ **Dual-stream coding** – left hand and right hand write separate programs *simultaneously*.  
-✅ **Auto-merge compiler** – combines your two masterpieces into flawless, production-ready binary code.  
-✅ **Folke-first plugins** – every keystroke is blessed by Folke himself (probably).  
-✅ **Performance boost** – officially benchmarked to be **2× faster than loser one-handed programming**.
+✅ **Dual-stream coding**: left hand and right hand write separate programs *simultaneously*.  
+✅ **Auto-merge compiler**: combines your two masterpieces into flawless, production-ready binary code.  
+✅ **Folke-first plugins**: every keystroke is blessed by Folke himself (probably).  
+✅ **Performance boost**: officially benchmarked to be **2× faster than loser one-handed programming**.
 
 ## 🚀 Installation
 
